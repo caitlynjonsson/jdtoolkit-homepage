@@ -4,7 +4,7 @@ body {
 	font-size: 10px;
 	padding: 1em;
 	text-align: center;
-	font-family: serif, garamond;
+	font-family: 'Playfair Display', serif;
 }
 
 h1 {
@@ -17,7 +17,7 @@ h1 {
 
 
 p, ul {
-	font-family: "Times New Roman", serif;
+	font-family: 'Playfair Display', serif;
 	color: #4d4228;
 	max-width: 30em;
 	width: 100%;
